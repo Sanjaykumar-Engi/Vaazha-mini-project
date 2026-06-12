@@ -2,7 +2,7 @@
 
 Vaazha is a professionally designed restaurant landing page that provides an elegant digital presence for a restaurant. The website showcases menu offerings through a clean and intuitive interface while enabling customers to connect seamlessly through an integrated contact form.
 
-Built with a focus on simplicity, responsiveness, and user experience, the project demonstrates core front-end development skills, including structured layouts, modern styling techniques, and mobile-friendly design principles.
+Built with a focus on simplicity, responsiveness, and user experience, the project demonstrates core front-end development skills, including structured layouts, modern styling techniques, and mobile-friendly design principle.
 
 Key Highlights
 Responsive and mobile-friendly design
